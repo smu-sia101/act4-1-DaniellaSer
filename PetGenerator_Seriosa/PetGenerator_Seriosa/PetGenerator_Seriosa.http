@@ -1,0 +1,6 @@
+@PetGenerator_Seriosa_HostAddress = http://localhost:5191
+
+GET {{PetGenerator_Seriosa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
